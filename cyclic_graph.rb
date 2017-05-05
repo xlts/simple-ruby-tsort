@@ -1,0 +1,2 @@
+class CyclicGraph < StandardError
+end
